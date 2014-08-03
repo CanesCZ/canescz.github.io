@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ondrej Henek
+---
+
 <div class="row">
 	<div class="col-xs-11 col-xs-offset-1 col-md-10 col-lg-9">
 
