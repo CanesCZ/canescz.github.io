@@ -2,13 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
 name: Canes' blog
-
-# Short bio or description (displayed in the header)
 description: About coding, UX and all the programming stuff
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/2082065?v=1&s=460
 
 #
@@ -21,7 +17,7 @@ footer-links:
   email: info@canes.cz
   facebook: 
   flickr: 
-  github: CanesCZ
+  github: canescz
   instagram: 
   linkedin: ondrejhenek
   pinterest: 
@@ -32,7 +28,7 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics: UA-6149741-3
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
