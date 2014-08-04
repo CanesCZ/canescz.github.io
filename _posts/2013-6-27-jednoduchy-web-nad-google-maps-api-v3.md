@@ -10,34 +10,34 @@ title: Jednoduchý web nad Google Maps API v3
 <p>První věc je samotná stránka, do které mapu načteme. Použijeme už nové HTML5 elementy, ať tvoříme pro budoucnost, ne pro minulost.</p>
 
 {% highlight html %}
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-	&lt;meta charset=&quot;utf-8&quot;&gt;
-	&lt;title&gt;Skvělý web s Google Maps&lt;/title&gt;
-	&lt;meta name=&quot;viewport&quot; content=&quot;initial-scale=1.0, user-scalable=no&quot; /&gt;
-	&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/css/bb_css.css&quot; /&gt;
-	&lt;script type=&quot;text/javascript&quot; src=&quot;/js/bb_js.js&quot;&gt;&lt;/script&gt;
-	&lt;script type=&quot;text/javascript&quot; src=&quot;https://maps.googleapis.com/maps/api/js?key=SEM_ZKOPÍROVAT_API_KLÍČ&sensor=true&quot;&gt;&lt;/script&gt;
-&lt;/head&gt;
-&lt;body onload=&quot;initialize()&quot;&gt;
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Skvělý web s Google Maps</title>
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<link rel="stylesheet" type="text/css" href="/css/bb_css.css" />
+	<script type="text/javascript" src="/js/bb_js.js"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=SEM_ZKOPÍROVAT_API_KLÍČ&sensor=true"></script>
+</head>
+<body onload="initialize()">
 
-	&lt;div id=&quot;map_canvas&quot;&gt;&lt;/div&gt;
+	<div id="map_canvas"></div>
 
-	&lt;header&gt;
-		&lt;nav class="mainMenu"&gt;
-			&lt;a href=&quot;#&quot;&gt;&lt;h1&gt;Google Maps web&lt;/h1&gt;&lt;/a&gt;
-			&lt;a href=&quot;#&quot;&gt;Domů&lt;/a&gt;
-			&lt;a href=&quot;#&quot;&gt;Druhý odkaz&lt;/a&gt;
-			&lt;a href=&quot;#&quot;&gt;Další&lt;/a&gt;
-			&lt;a href=&quot;#&quot;&gt;A ještě něco&lt;/a&gt;
-		&lt;/nav&gt;
-	&lt;/header&gt;
+	<header>
+		<nav class="mainMenu">
+			<a href="#"><h1>Google Maps web</h1></a>
+			<a href="#">Domů</a>
+			<a href="#">Druhý odkaz</a>
+			<a href="#">Další</a>
+			<a href="#">A ještě něco</a>
+		</nav>
+	</header>
 		
-	&lt;footer&gt;
-	&lt;/footer&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+	<footer>
+	</footer>
+</body>
+</html>
 {% endhighlight %}
 
 <p>Taky budou potřeba nějaké styly, které uložíme do souboru <code>css/bb_css.css</code>. (Proč to bb_? Protože mám více projektů v jednom adresáři, toto je jediná podivnost, slibuju!)</p>
@@ -80,9 +80,11 @@ var map = new google.maps.Map(document.querySelector("#map_canvas"), mapOptions)
 <p>Přihlásíme se se svým Google účtem na stránku <a href="https://code.google.com/apis/console/">Google APIs</a> a asi ještě nemáme žádný projekt, tak si hned první vytvoříme tlačítkem <em>Create project...</em>. Poté si najdeme vedle popisku <em>Google Maps API v3</em> (asi třicáté shora) přepínač <em>OFF</em> a klikneme na něj. Pročteme :) a odsouhlasíme licenci a znovu si najdeme odkaz <em>Google Maps API v3</em>, vedle kterého je už na přepínači <em>ON</em>. Tento odkaz nás zavede na přehled využití našich map. Tam se toho moc nedočteme, mnohem zajímavější je v levém menu položka <em>API Access</em>. Na této stránce se nachází vytoužený čtyřicetimístný <em>API key</em>, který je denně omezený na "pouhých" 25 000 požadavků. :)</p>
 <p>Nyní už jen stačí klíč zkopírovat do naší stránky, konkrétně do adresy v tagu <code>script</code>, ve kterém se dožadujeme Google map.</p>
 
-<pre><code>...
-&lt;script type=&quot;text/javascript&quot; src=&quot;https://maps.googleapis.com/maps/api/js?key=SEM_ZKOPÍROVAT_API_KLÍČ&sensor=true&quot;&gt;&lt;/script&gt;
-...</code></pre>
+{% highlight javascript %}
+...
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=SEM_ZKOPÍROVAT_API_KLÍČ&sensor=true"></script>
+...
+{% endhighlight %}
 
 
 <h2>Hle, Brno!</h2>
