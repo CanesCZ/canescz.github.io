@@ -9,7 +9,8 @@ title: Jednoduchý web nad Google Maps API v3
 
 <p>První věc je samotná stránka, do které mapu načteme. Použijeme už nové HTML5 elementy, ať tvoříme pro budoucnost, ne pro minulost.</p>
 
-<pre class=" language-markup"><code>&lt;!DOCTYPE html&gt;
+{% highlight html %}
+&lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
 	&lt;meta charset=&quot;utf-8&quot;&gt;
@@ -36,11 +37,13 @@ title: Jednoduchý web nad Google Maps API v3
 	&lt;footer&gt;
 	&lt;/footer&gt;
 &lt;/body&gt;
-&lt;/html&gt;</code></pre>
+&lt;/html&gt;
+{% endhighlight %}
 
 <p>Taky budou potřeba nějaké styly, které uložíme do souboru <code>css/bb_css.css</code>. (Proč to bb_? Protože mám více projektů v jednom adresáři, toto je jediná podivnost, slibuju!)</p>
 
-<pre class=" language-css"><code>html{
+{% highlight css %}
+html{
 	height: 100%;
 }
 body{
@@ -51,20 +54,23 @@ body{
 #map_canvas{
 	height: 100%;
 	width: 100%;
-}</code></pre>
+}
+{% endhighlight %}
 
 <p>CSS nám roztáhne <code>html</code> element na celou stránku, stejně jako <code>body</code>. Zároveň zrušíme jakékoliv okraje, které prohlížeče přidávají a nakonec roztáhneme <code>#map_canvas</code>, do kterého budeme načítat mapové podklady, přes celou stránku.</p>
 
 <p>Zbývá trocha javascriptu, který vložíme do souboru <code>js/bb_js.js</code>.</p>
 
-<pre class=" language-javascript"><code>function initialize() {
+{% highlight javascript %}
+function initialize() {
 var mapOptions = {
 	center: new google.maps.LatLng(49.195102, 16.608528),
 	zoom: 15,
 	mapTypeId: google.maps.MapTypeId.HYBRID
 };
 var map = new google.maps.Map(document.querySelector("#map_canvas"), mapOptions);
-}</code></pre>
+}
+{% endhighlight %}
 
 <p>Vytvoříme si funkci <code>initialize()</code>, kterou zavoláme po načtení stránky. V ní definujeme objekt <code>mapOptions</code>, který nese nastavení pro mapu jako je výchozí poloha (center), výchozí přiblížení (zoom) a typ mapy, v tomto případě hybridní. Nakonec už jen vytvoříme novou instanci objektu <code>google.maps.Map</code> a předáme mu kam se má načíst (do map_canvasu) a s jakým nastavením.</p>
 
@@ -74,7 +80,7 @@ var map = new google.maps.Map(document.querySelector("#map_canvas"), mapOptions)
 <p>Přihlásíme se se svým Google účtem na stránku <a href="https://code.google.com/apis/console/">Google APIs</a> a asi ještě nemáme žádný projekt, tak si hned první vytvoříme tlačítkem <em>Create project...</em>. Poté si najdeme vedle popisku <em>Google Maps API v3</em> (asi třicáté shora) přepínač <em>OFF</em> a klikneme na něj. Pročteme :) a odsouhlasíme licenci a znovu si najdeme odkaz <em>Google Maps API v3</em>, vedle kterého je už na přepínači <em>ON</em>. Tento odkaz nás zavede na přehled využití našich map. Tam se toho moc nedočteme, mnohem zajímavější je v levém menu položka <em>API Access</em>. Na této stránce se nachází vytoužený čtyřicetimístný <em>API key</em>, který je denně omezený na "pouhých" 25 000 požadavků. :)</p>
 <p>Nyní už jen stačí klíč zkopírovat do naší stránky, konkrétně do adresy v tagu <code>script</code>, ve kterém se dožadujeme Google map.</p>
 
-<pre class=" language-javascript"><code>...
+<pre><code>...
 &lt;script type=&quot;text/javascript&quot; src=&quot;https://maps.googleapis.com/maps/api/js?key=SEM_ZKOPÍROVAT_API_KLÍČ&sensor=true&quot;&gt;&lt;/script&gt;
 ...</code></pre>
 
@@ -85,7 +91,8 @@ var map = new google.maps.Map(document.querySelector("#map_canvas"), mapOptions)
 
 <p>Cílem článku však není jen mít neovladatenou mapu. Chceme i nějaké menu. Zkopírujeme si tedy následující styly do <code>bb_css.css</code>, ať máme mapu o něco veselejší. Důležité je nastavení <code>position</code> a <code>z-index</code>ů u jednotlivých prvků.</p>
 
-<pre class=" language-css"><code>html{
+{% highlight css %}
+html{
 	height: 100%;
 }
 body{
@@ -139,7 +146,8 @@ body{
 	background: #333;
 	border-color: #999;
 	color: #fff;
-}</code></pre>
+}
+{% endhighlight %}
 
 <p>Nyní by měl výsledek vypadat stejně jako moje <a href="http://pokus.canes.cz/pages/map">pokusná Google mapa</a>. Pokud ne, tak napište do komentářů pod článkem, co se nepovedlo. Spolu to pak dáme dohromady!</p>
 <p>Myslím, že jsme už něco vytvořili a můžeme být na to málo hrdí. Příště se budeme věnovat hlavně mapě a umisťování jednotlivých bodů na různé souřadnice.</p>	
