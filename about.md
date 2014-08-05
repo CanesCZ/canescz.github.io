@@ -142,8 +142,8 @@ title: Ondrej Henek
 				<li>
 					<h3>
 						Email
-						<a href="mailto:info@canes.cz" class="bigLink">
-							info@canes.cz
+						<a href="mailto:hello@canes.cz" class="bigLink">
+							hello@canes.cz
 						</a>
 					</h3>
 				</li>

@@ -12,14 +12,16 @@ body{
 }
 a{
 	border-bottom: 1px solid #ccc;
-	color: #aaa;
+	color: #0AD;
 	transition-duration: .3s;
-	transition-property: border-color, color;
+	transition-property: border-color, color, text-shadow;
+	text-shadow: 1px 1px 0px rgba(200, 200, 200, 0);
 	
 	&:hover{
-		border-color: #0AD;
-		color: #0AD;
+		border-color: #000;
+		color: #09B;
 		text-decoration: none;
+		text-shadow: 1px 1px 0px rgba(200, 200, 200, .5);
 	}
 }
 h3 small{
@@ -29,13 +31,18 @@ h3 small{
 	color: #000;
 }
 .headerico{
-	background: $defaultColor;
-	border-radius: 2rem;
-	color: #fff;
-	font-size: 1rem;
-	padding: 0.5rem;
-	position: absolute;
-	left: -3rem;
+	display: none;
+
+	@media (min-width: 768px){
+		background: $defaultColor;
+		border-radius: 2rem;
+		color: #fff;
+		display: block;
+		font-size: 1rem;
+		padding: 0.5rem;
+		position: absolute;
+		left: -3rem;
+	}
 }
 .header{
 	position: relative;
