@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Pain #1 - links not being links
+title: UX Pain \#1 - links not being links
 ---
 
 <p>It's not a new idea and... It's kinda obvious but there are a lot of buttons or "links" on the web which are not links. But who has JavaScript disabled you ask! Well, there are other reasons...</p>
