@@ -1,0 +1,9 @@
+// redefining dumb bootstrap things. :)
+blockquote{
+	font-size: 1rem;
+}
+@media (min-width: 970px){
+	.content{
+		width: 970px;
+	}
+}
