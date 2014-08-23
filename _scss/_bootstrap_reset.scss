@@ -5,8 +5,6 @@ body{
 blockquote{
 	font-size: 1rem;
 }
-@media (min-width: 992px) {
-	.content{
-		width: 970px;
-	}
+.content{
+	max-width: 970px;
 }
