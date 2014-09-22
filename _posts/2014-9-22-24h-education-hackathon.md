@@ -7,7 +7,7 @@ Hackování, maraton a vzdělání rovnou v názvu akce? Tam chceš! :) A určit
 
 [24h Education Hackathon](/images/24h-education-hackathon.jpg)
 
-20. září jsme se sešli v krásném punkovém prostředí [Industry](http://industrabrno.cz), abychom se mrkli na zoubek přihlášeným projektům, pomohli je posunout dál a udělali si pěkný víkend. Na poslední chvíli jsem přihlásil i naše [Entoo](http://www.entoo.cz), kde bychom ocenili zvýšení interakcí uživatelů a rádi bychom upevnili komunitu okolo projektu.
+20\. září jsme se sešli v krásném punkovém prostředí [Industry](http://industrabrno.cz), abychom se mrkli na zoubek přihlášeným projektům, pomohli je posunout dál a udělali si pěkný víkend. Na poslední chvíli jsem přihlásil i naše [Entoo](http://www.entoo.cz), kde bychom ocenili zvýšení interakcí uživatelů a rádi bychom upevnili komunitu okolo projektu.
 
 Po představení projektů a problémů, které bychom chtěli řešit, jsme se rozdělili na tři projekty a tři skupinky hackerů a rovnou začali s metodou Pro-Action Café.
 
@@ -44,8 +44,11 @@ Na závěr jsme si ve zbylích 15 lidech sedli, rozebrali hackathon a dali důle
 ### A jak tedy zvýšit interakci a upevnit komunitu Entoo?
 
 * První hack spočívá v omezení přístupu ke všem informacím a materiálům. Pokud se chce student dozvědět více, musí to komunitě nějak vrátit. Například pro stažení několika přednášek bude student muset přidat komentář k předmětu, nebo bude muset ohodnotit kvalitu nějakého materiálu, nahrát nějaký soubor apod. Tím se zvýší interakce, na druhou stranu i balast. Uvidíme...
+
 * Stejně jako první nápad je tento inspirován od [VŠE Borce](http://www.vseborec.cz/), kde si mohou studenti dobít peněženku na svém účtu a dobrovolně potom přispívat těm kolegům, jejichž materiály jim pomohly ve studiu. Všechno je dobrovolné, ale je motivace peněžní odměnou to pravé? Opět uvidíme... :)
+
 * Dalším tipem je nabídka a poptávka po doučování. Systém by fungoval tak, že pokud student nahrává materiály a vypadá, že tématu rozumí, měl by mnohem větší šanci si sehnat malou brigádku ve formě doučování spolužáka. Ale jestli je o doučování zájem, uvidíme...
+
 * Poslední hack je asi nejzajímavější a jde asi nejvíce tím směrem, kterým bychom Entoo chtěli vést. Entoo by fungovalo také jako právní poradna pro veřejnost. Studenti by mohli diskutovat o reálném problému, dostali by se více k praxi a ti aktivní by měli později výhodu na trhu práce díky tomuto zviditelnění během studia. Musel by zde však existovat nějaký moderátor / guru / garant / to-je-jedno-jak-ho-nazveme, který by studentské rady nakonec nějak zformuloval a ověřil, že to není naprostá kravina.
 
 ### Bonusové tipy - jak na video?
