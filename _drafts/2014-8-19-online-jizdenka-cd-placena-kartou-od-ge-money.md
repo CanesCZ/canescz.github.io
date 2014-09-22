@@ -1,7 +1,16 @@
 ---
 layout: post
-title: Online jízdenka ČD placená kartou od GE Money
+title: Online jízdenka ČD
 ---
+
+## Nákup z pohodlí domova
+
+1) vyhledani spoje
+2) musim jit do eshopu
+3) opet vyhledam spoj
+4) ???
+
+## Mobilní eshop ČD
 
 To jsem takhle jednou jel z Olomouce vlakem a protože bylo na nádraží narváno, jízdenku jsem už nestihl. Tak si ji koupím online!
 
@@ -11,7 +20,7 @@ Vybírám si slevu - já chci ale InKartu a jebu vám na důchodce! Vždyť jsem
 
 Musím vždycky vypsat údaje InKarty - what? why?
 
-== Platba kartou
+## Bonusová Platba kartou
 
 Na tom onom portálu tlačítko na ukázání CVC kódu přesměruje jinam! Yey! Ztracen celý progress s výpisem údajů karty
 

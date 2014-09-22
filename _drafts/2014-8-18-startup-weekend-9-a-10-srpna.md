@@ -3,6 +3,14 @@ layout: post
 title: Startup Weekend 9. a 10. srpna
 ---
 
+Plán byl jednoduchý: Vytvoříme za víkend úžasný startup, který nám vydělá miliony! Že už to každý někde slyšel? Ale za pokus nic nedáte...
+
+Jenže hned zezačátku to bylo trochu jinak. Žádný extra nápad, jen banda natěšených lidí tvořit, tak jsme to vzali z trochu jiného konce. Vybrali jsme dva naše nejlepší nápady a začali jsme identifikovat cílové skupiny.
+
+
+
+
+
 Startup Weekend proběhl v Industře 9. a 10. srpna.
 
 Proběhlo to ve formě workshopu user-centered designu pod taktovkou Sapha.
