@@ -9,11 +9,11 @@ Hackování, maraton a vzdělání rovnou v názvu akce? Tam chceš! :) A určit
 
 <img src="/images/24h-education-hackathon.jpg" alt="24h Education Hackathon" class="img-responsive">
 
-Po představení projektů a problémů, které bychom chtěli řešit, jsme se rozdělili na tři projekty a tři skupinky hackerů a rovnou začali s metodou Pro-Action Café.
+Po představení projektů a problémů, které bychom chtěli řešit, jsme se rozdělili na tři projekty a tři skupinky hackerů a rovnou začali s metodou Pro Action Café.
 
 ## Pro Action co?
 
-Jestli jsem měl někdy v hlavě doslova brain storm, tak to bylo právě teď. K mému stolku, kde se řešilo Entoo, si přisedlo 7 dalších hackerů a společně jsme měli 20 minut na rozebrání mého projektu, jeho problému a ujasnění v čem to vlastně vězí. Po prvních 20 minutách zazvonil zvonek a týmy se protočily. Stačil jsem se nadechnout, vydechnout a už běžela další 20 minutovka s další skupinkou hackerů.
+Jestli jsem měl někdy v hlavě doslova brain storm, tak to bylo právě teď. K mému stolku, kde se řešilo Entoo, si přisedlo 7 dalších hackerů. Společně jsme měli 20 minut na rozebrání mého projektu, definování problémů a ujasnění v čem to vlastně vězí. Po prvních 20 minutách zazvonil zvonek a týmy se protočily. Stačil jsem se nadechnout, vydechnout a už běžela další 20minutovka s další skupinkou hackerů.
 
 Druhé vlně jsem představil už jasně definovaný problém a úkolem bylo najít jiné perspektivy. Já i velký papír na mém stole se snažily vstřebat všechny názory, připomínky, otázky a kritiku.
 
@@ -21,11 +21,11 @@ Cink!
 
 Poslední třetině účastníků hackathonu jsem už s vypětím posledních mentálních sil vyklopil všechno, co jsme s předchozímy týmy dali dohromady. Poučeni z předchozích dvou kol jsme přišli na několik rozhodně zajímavých řešení a po opětovném zazvonění zvonku jsem mohl sesumírovat docela jasné nápady, které jsme během hodinového Pro Action Café vymysleli.
 
-Po této intenzivní hodince následovala malá pauza a druhé kolo Pro Action Café pro další 3 projekty. Teď už jsem si tuto pro mě novou metodu užil z pohledu hackera. I v této pozici jsem získal spoustu nápadů a na spoustu nápadů také pomohl přijít.
+Po této intenzivní hodince následovala malá pauza a druhé kolo Pro Action Café pro další 3 projekty. Teď už jsem si tuto, pro mě novou, metodu užil z pohledu hackera. I v této pozici jsem získal spoustu nápadů a na spoustu nápadů také pomohl přijít.
 
 ## To už se vážně stmívá?
 
-Celá sobota hackathonu utíkala jako voda a kvůli opožděnému začátku, představování na místě vytvořených projektů, protáhlé pauze na oběd (skoro večeři) a skvělé vsuvce v podobě žonglérského workshopíku, jsme šli hackovat už skoro za tmy. Většina projektů včetně mě ale pokračovat nechtěla, protože se díky zpětné vazbě od 20 dalších hackerů dost změnila podstata a plánované řešení problému. Nakonec zůstal projekt [Honzy Veselého](http://vese.ly/) o Lean Startup Canvasu a Kuby Lance o spolubydlení - Klubydlet.cz (online snad již brzy).
+Celá sobota hackathonu utíkala jako voda a kvůli opožděnému začátku, představování na místě vytvořených projektů, protáhlé pauze na oběd (skoro večeři) a skvělé vsuvce v podobě žonglérského workshopíku, jsme šli hackovat už skoro za tmy. Většina projektů včetně mě ale pokračovat nechtěla, protože se díky zpětné vazbě od 20 kolegů dost změnila podstata a plánované řešení problému. Nakonec zůstal projekt [Honzy Veselého](http://vese.ly/) o Lean Startup Canvasu a Kuby Lance o spolubydlení - Klubydlet.cz (online snad již brzy).
 
 ### Klubydlení + únava = hovno v lednici
 
@@ -35,7 +35,7 @@ Na dobrou noc jsme si dali ještě rychle čerstvý feedback z uplynulé soboty 
 
 ## Dobré ránko, Hackathone!
 
-Z provizorních matrací, žíněnek a palet se kolem půl deváté začaly pomalu trousit rozespalé tváře, abychom mohli v devět rozjet další pokračování našich hacků. Disciplína ale stále pokulhávala, takže jsme si zaprokrastinovali při svkělé snídani od Industra Café a pomalu se dostali ke dvanácté hodině a konci hackathonu.
+Z provizorních matrací, žíněnek a palet se kolem půl deváté začaly pomalu trousit rozespalé tváře, abychom mohli v devět rozjet další pokračování našich hacků. Disciplína ale stále pokulhávala, takže jsme si zaprokrastinovali při svkělé snídani od Industra Café a ve volném pracovním tempu se dostali ke dvanácté hodině a konci hackathonu.
 
 ## Co nám teda z toho Hackathonu vypadlo?
 
@@ -43,7 +43,7 @@ Na závěr jsme si ve zbylích 15 lidech sedli, rozebrali hackathon a dali důle
 
 ### A jak tedy zvýšit interakci a upevnit komunitu Entoo?
 
-Během Pro Action Café jsme s hackery vymysleli hned několik možných řešení mého problému. Krom gamifikace a nějaké optimalizace rozhraní jsme se dostali v nápadech mnohem dál a docela outside the box. Nezaujaté čisté a kreativní hlavy určitě fungují!
+Během Pro Action Café jsme s hackery vymysleli hned několik možných řešení mého problému. Krom gamifikace a nějaké optimalizace rozhraní jsme se dostali v nápadech mnohem dál a docela outside of the box. Nezaujaté čisté a kreativní hlavy určitě fungují!
 
 * První hack spočívá v omezení přístupu ke všem informacím a materiálům. Pokud se chce student dozvědět více, musí to komunitě nějak vrátit. Například pro stažení několika přednášek bude student muset přidat komentář, nebo ohodnotit kvalitu nějakého textu, nahrát nějaký soubor apod. Tím se zvýší interakce, na druhou stranu i balast. Uvidíme...
 
@@ -51,7 +51,7 @@ Během Pro Action Café jsme s hackery vymysleli hned několik možných řešen
 
 * Dalším tipem je nabídka a poptávka po doučování. Systém by fungoval tak, že pokud student nahrává materiály a vypadá, že tématu rozumí, měl by mnohem větší šanci si sehnat malou brigádku ve formě doučování spolužáka. Jestli je o doučování zájem, uvidíme...
 
-* Poslední hack je asi nejzajímavější a jde asi nejvíce tím směrem, kterým bychom Entoo chtěli vést. Entoo by fungovalo také jako právní poradna pro veřejnost. Studenti by mohli diskutovat o reálném problému, dostali by se více k praxi a ti aktivní by měli později výhodu na trhu práce díky tomuto zviditelnění během studia. Musel by zde však existovat nějaký moderátor / guru / garant / to-je-jedno-jak-ho-nazveme, který by studentské rady nakonec nějak zformuloval a ověřil, že to není naprostá kravina.
+* Poslední hack je asi nejzajímavější a jde asi nejvíce tím směrem, kterým bychom Entoo chtěli vést. Entoo by fungovalo také jako právní poradna pro veřejnost. Studenti by mohli diskutovat o reálném problému, dostali by se více k praxi a ti aktivní by měli později výhodu na trhu práce díky tomuto zviditelnění již během studia. Musel by zde však existovat nějaký moderátor / guru / garant / to-je-jedno-jak-ho-nazveme, který by studentské rady nakonec nějak zformuloval a ověřil, že to není naprostá kravina.
 
 ### Bonusové tipy - jak na video?
 
