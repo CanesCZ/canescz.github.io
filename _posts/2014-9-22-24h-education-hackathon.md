@@ -7,7 +7,7 @@ Hackování, maraton a vzdělání rovnou v názvu akce? Tam chceš! :) A určit
 
 20\. září jsme se sešli v krásném punkovém prostředí [Industry](http://industrabrno.cz) na [24h Education Hackathonu](http://eduhackcz.weebly.com), abychom se mrkli na zoubek přihlášeným projektům, pomohli je posunout dál a udělali si pěkný víkend. Na poslední chvíli jsem přihlásil i naše [Entoo](http://www.entoo.cz), kde bychom ocenili zvýšení interakcí uživatelů a rádi bychom upevnili komunitu okolo projektu.
 
-<img src="/images/24h-education-hackathon.jpg" alt="24h Education Hackathon" class="img-responsive">
+<img src="../images/24h-education-hackathon.jpg" alt="24h Education Hackathon" class="img-responsive">
 
 Po představení projektů a problémů, které bychom chtěli řešit, jsme se rozdělili na tři projekty a tři skupinky hackerů a rovnou začali s metodou Pro Action Café.
 

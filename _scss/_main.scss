@@ -44,6 +44,9 @@ p{
 // making the print right...
 .h2{font-size: 1.875rem;}
 .h3{font-size: 1.5rem;}
+h1, h2, h3, h4, h5{
+	font-weight: 600;
+}
 @media print{
 	html{
 		font-size: 12px;
@@ -60,3 +63,7 @@ p{
 
 // HELPERS
 .margintop3rem{margin-top: 3rem;}
+
+blockquote{
+	font-style: italic;
+}
