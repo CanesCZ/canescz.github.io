@@ -1,0 +1,2 @@
+RewriteEngine on 
+RewriteRule ^(.*)$ http://blog.ondrejhenek.cz/$1 [R=301,L]

@@ -64,7 +64,6 @@ title: Ondřej Henek
 					<h3>
 						Web Developer v Emam s.r.o.
 						<small>2011</small>
-						<!--<small><a href="http://www.emam.canes.cz">emam.canes.cz</a></small>-->
 					</h3>
 					<p>Tvorba reklamní platformy založené na prohlížeči a klientská administrace reklamních kampaní. Dále online aplikace pro vyhledávání obchodních domů s použitím Google Maps API</p>
 				</li>
@@ -142,8 +141,8 @@ title: Ondřej Henek
 				<li>
 					<h3>
 						Email
-						<a href="mailto:hello@canes.cz" class="bigLink">
-							hello@canes.cz
+						<a href="mailto:hello@ondrejhenek.cz" class="bigLink">
+							hello@ondrejhenek.cz
 						</a>
 					</h3>
 				</li>
@@ -159,8 +158,8 @@ title: Ondřej Henek
 				<li>
 					<h3>
 						Osobní blog
-						<a href="http://www.canes.cz" class="bigLink">
-							Canes.cz
+						<a href="http://www.ondrejhenek.cz" class="bigLink">
+							ondrejhenek.cz
 						</a>
 					</h3>
 				</li>

@@ -2,8 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
-name: Canes' blog
-description: About coding, UX and all the programming stuff
+name: Ondřej Henek - blog
+description: Webdesign, UX, život a tak...
 
 avatar: https://avatars3.githubusercontent.com/u/2082065?v=1&s=460
 
@@ -14,7 +14,7 @@ avatar: https://avatars3.githubusercontent.com/u/2082065?v=1&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: info@canes.cz
+  email: hello@ondrejhenek.cz
   facebook: 
   flickr: 
   github: canescz
