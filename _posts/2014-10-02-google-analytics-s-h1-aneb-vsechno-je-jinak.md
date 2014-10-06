@@ -6,7 +6,7 @@ excerpt: "Google Analytics ukazují čísla, ale že neznamenají to, co je u ni
 
 [JIC](http://jic.cz) se přestěhoval až k technologickému parku, tak jsem jejich nové sídlo musel jít omrknout. A kdy jindy než na [první středě s H1](http://www.h1.cz/prvni-streda-v-brne), tentokrát o Google Analytics.
 
-## Mind = blown!
+## Mind = blown
 
 Jakub Drahokoupil se ze začátku nevrhl přímo na nějaké profi fígle, ale jal se upřesnit, jak se různé metriky měří. A to bylo asi nejpřínosnější.
 
