@@ -44,4 +44,6 @@ A přesně tuto metriku podle mě Google nejvíc "věští". :) Čas na stránce
 
 Doteď jsem Googlu věřil a to až moc. Budu taky muset přemýšlet v mnohem širším kontextu a neizolovat data. Krátký čas na stránce se zdá jako negativní, ale s nízkým bounce rate může znamenat, že uživatel rychle našel, co chtěl. Nebo také ne, ale odešel až z jiné stránky, na kterou se v naději dostal...
 
+__Update:__ Dost podobnou a o něco kratší přednášku měl i [Jan Tichý na Internet Marketingu 2013](https://www.youtube.com/watch?v=sH8FEsGY4mg) vloni v Olomouci. Doporučuji pro podrobnější a širší vysvětlení.
+
 
