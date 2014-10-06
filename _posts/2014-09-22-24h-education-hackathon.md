@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 24h Education Hackathon 
+description: Hackování, maraton a vzdělání rovnou v názvu akce? Tam chceš! :) A určitě si s sebou chceš vzít i svůj projekt
 ---
 
 Hackování, maraton a vzdělání rovnou v názvu akce? Tam chceš! :) A určitě si s sebou chceš vzít i svůj projekt...

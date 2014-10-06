@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Analytics s H1 aneb všechno je jinak!
-excerpt: "Google Analytics ukazují čísla, ale že neznamenají to, co je u nich napsáno, to mě upřímně nenapadlo. A možná ani vás..."
+description: "Google Analytics ukazují čísla, ale že neznamenají to, co je u nich napsáno, to mě upřímně nenapadlo. A možná ani vás..."
 ---
 
 [JIC](http://jic.cz) se přestěhoval až k technologickému parku, tak jsem jejich nové sídlo musel jít omrknout. A kdy jindy než na [první středě s H1](http://www.h1.cz/prvni-streda-v-brne), tentokrát o Google Analytics.
