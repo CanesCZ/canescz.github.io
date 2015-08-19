@@ -19,7 +19,7 @@ Po troše cestování se ocitám v odpoledním Odense u Pauline doma, kde mě je
 
 Nakonec dostávám snídaňový balíček s trochou chleba a šunky a jsem vyprovozen na nádraží. Je sedm hodin a já už s 20kg krosnou sotva pletu nohama. Vlak mě unáší krajinou, kterou jsem lehce zaspal, vidím spoustu větrných elektráren tyčících se z moře a pomalu přijíždím opět na pobřeží, tedy do cílové destinace.
 
-## Kolding a ubytování
+## Kolding a ubytování
 
 Kolding má asi 60 000 obyvatel, ale svojí rozlohou a hustotou obyvatel spíš připomíná tři menší města vedle sebe. Uprostřed se tyčí krásná cihlová pevnost z 13. století a okolo jsou stejně červené malé domečky tvořící historické centrum města. Krom parku, obrovského hřiště pro děti a přístavu tu už vlastně nic není. Z nádraží mě vyzvedává přidělený kamarád a předává mi klíče od bytu, SIM kartu a spoustu papírů. Po cestě k mému novému domovu mi vysvětluje, jak to chodí, kde mám školu a trochu vtipkujem. Když otevírám dveře do svého pokoje, pomalu se se mnou loučí, ať se vyspím, že zítra zajdeme na pivo. To zní jako plán. Umírám do postele a je mi fajn.
 
@@ -37,7 +37,7 @@ Očekával jsem, že tu bude neskutečně draze a s mým českým kapesným budu
 
 Z elektroniky jsem si už stihl objednat externí disk, který stojí úplně stejně, jako u nás. Drobná komplikace ale nastala s dopravou, protože nejlevnější varianta je vyzvednutí z úschovného boxu pošty, kam se naťuká číselný kód a přiloží občanka. S naivní myšlenkou, že mi to vezme i českou, jsem se vydal směrem k úschovně.
 
-Nejdřív jsem to zkusil se svou občankou, ale bez šance. Potom jsem přes automat zavolal na zákaznickou linku a pověděl jí svoji stiuaci. Prý jestli mám v dánsku nějaký kamarády, že je jedno jaká občanka to otevře, ale musí být dánská. S nápadem využít nějakého kolemjdoucího se ptám, jestli je opravdu jedno, kdo naskenuje sovji kartu. Ano.
+Nejdřív jsem zkusil mačkat tu svoji kartičku na skener, ale bez šance. Potom jsem přes automat zavolal na zákaznickou linku a pověděl jí svoji stiuaci. Prý jestli mám v dánsku nějaký kamarády, že stačí jejich karta. No samozřejmě! Jsem snad nějaký asociál? S nápadem využít náhodného kolemjdoucího se ptám, jestli je nakonec jedno, kdo naskenuje sovji kartu. Ano.
 
 Zastavil jsem prvního chlapíka na ulici, popsal mu situaci a on mi s úsměvem odpoví, že není Dán. Na druhý pokus jsem zastavil slečnu, která se už tvářila přívětivěji. Jenže poté, co se chvíli přehrabovala v kabelce, něco vzkřikla, omluvila se, že nemá peněženku, a šla zase zpátky. Kliku jsem měl až napotřetí, stačilo vložit kartu a tadá, sejf otevřen, nákup je doma! :)
 
