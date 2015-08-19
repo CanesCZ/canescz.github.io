@@ -23,7 +23,7 @@ Nakonec dostávám snídaňový balíček s trochou chleba a šunky a jsem vypro
 
 Kolding má asi 60 000 obyvatel, ale svojí rozlohou a hustotou obyvatel spíš připomíná tři menší města vedle sebe. Uprostřed se tyčí krásná cihlová pevnost z 13. století a okolo jsou stejně červené malé domečky tvořící historické centrum města. Krom parku, obrovského hřiště pro děti a přístavu tu už vlastně nic není. Z nádraží mě vyzvedává přidělený kamarád a předává mi klíče od bytu, SIM kartu a spoustu papírů. Po cestě k mému novému domovu mi vysvětluje, jak to chodí, kde mám školu a trochu vtipkujem. Když otevírám dveře do svého pokoje, pomalu se se mnou loučí, ať se vyspím, že zítra zajdeme na pivo. To zní jako plán. Umírám do postele a je mi fajn.
 
-<img src="../images/denmark/studentska-karta.jpg" class="img-responsive">
+<img src="../images/denmark/koldinghus.jpg" class="img-responsive">
 
 Bydlím asi 10 minut z centra na jih, stejně tak to mám 10 minut do školy. Překvapením je otevírací dobra školy, do které můžu vejít na svoji studentskou kartu kdykoliv se mi zachce. Prý se odsud na Silvestra dobře sledují ohňostroje a popíjí pivo z nejvyššího balkonu. Škola taky zařizuje Welcome Package, ve kterém je prostěradlo, ručníky, utěrky a základní kuchyňské vybavení. To mi rozhodně ušetřilo pár korun a starostí.
 
